@@ -25,17 +25,17 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>pks4</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Schott, Peter</o:LastAuthor>
-  <o:Revision>12</o:Revision>
-  <o:TotalTime>234</o:TotalTime>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>145</o:TotalTime>
   <o:Created>2012-12-18T20:05:00Z</o:Created>
-  <o:LastSaved>2019-11-19T22:41:00Z</o:LastSaved>
+  <o:LastSaved>2019-11-19T21:08:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>92</o:Words>
-  <o:Characters>526</o:Characters>
+  <o:Words>155</o:Words>
+  <o:Characters>884</o:Characters>
   <o:Company>Microsoft</o:Company>
-  <o:Lines>4</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>617</o:CharactersWithSpaces>
+  <o:Lines>7</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1037</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -47,6 +47,7 @@ w\:* {behavior:url(#default#VML);}
 <link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:View>Print</w:View>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
@@ -244,7 +245,7 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Block Text"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   QFormat="true" Name="Hyperlink"/>
+   Name="Hyperlink"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="FollowedHyperlink"/>
   <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
@@ -689,21 +690,18 @@ w\:* {behavior:url(#default#VML);}
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";}
 a:link, span.MsoHyperlink
-	{mso-style-qformat:yes;
-	mso-ansi-font-size:12.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-hansi-font-family:Calibri;
+	{mso-style-noshow:yes;
 	color:blue;
-	text-decoration:none;
-	text-underline:none;}
+	text-decoration:underline;
+	text-underline:single;}
 a:visited, span.MsoHyperlinkFollowed
 	{mso-style-noshow:yes;
 	color:#FF0033;
 	text-decoration:underline;
 	text-underline:single;}
 p
-	{mso-margin-top-alt:auto;
+	{mso-style-noshow:yes;
+	mso-margin-top-alt:auto;
 	margin-right:0in;
 	mso-margin-bottom-alt:auto;
 	margin-left:0in;
@@ -761,110 +759,6 @@ span.SpellE
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
- /* List Definitions */
- @list l0
-	{mso-list-id:-132;
-	mso-list-type:simple;
-	mso-list-template-ids:506873832;}
-@list l0:level1
-	{mso-level-tab-stop:1.25in;
-	mso-level-number-position:left;
-	margin-left:1.25in;
-	text-indent:-.25in;}
-@list l1
-	{mso-list-id:-131;
-	mso-list-type:simple;
-	mso-list-template-ids:1020290190;}
-@list l1:level1
-	{mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	margin-left:1.0in;
-	text-indent:-.25in;}
-@list l2
-	{mso-list-id:-130;
-	mso-list-type:simple;
-	mso-list-template-ids:-607255542;}
-@list l2:level1
-	{mso-level-tab-stop:.75in;
-	mso-level-number-position:left;
-	margin-left:.75in;
-	text-indent:-.25in;}
-@list l3
-	{mso-list-id:-129;
-	mso-list-type:simple;
-	mso-list-template-ids:-929416422;}
-@list l4
-	{mso-list-id:-128;
-	mso-list-type:simple;
-	mso-list-template-ids:2116482596;}
-@list l4:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:1.25in;
-	mso-level-number-position:left;
-	margin-left:1.25in;
-	text-indent:-.25in;
-	font-family:Symbol;}
-@list l5
-	{mso-list-id:-127;
-	mso-list-type:simple;
-	mso-list-template-ids:-205325156;}
-@list l5:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	margin-left:1.0in;
-	text-indent:-.25in;
-	font-family:Symbol;}
-@list l6
-	{mso-list-id:-126;
-	mso-list-type:simple;
-	mso-list-template-ids:596295364;}
-@list l6:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.75in;
-	mso-level-number-position:left;
-	margin-left:.75in;
-	text-indent:-.25in;
-	font-family:Symbol;}
-@list l7
-	{mso-list-id:-125;
-	mso-list-type:simple;
-	mso-list-template-ids:-576954210;}
-@list l7:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	font-family:Symbol;}
-@list l8
-	{mso-list-id:-120;
-	mso-list-type:simple;
-	mso-list-template-ids:1490453894;}
-@list l8:level1
-	{mso-level-tab-stop:.25in;
-	mso-level-number-position:left;
-	margin-left:.25in;
-	text-indent:-.25in;}
-@list l9
-	{mso-list-id:-119;
-	mso-list-type:simple;
-	mso-list-template-ids:1246534934;}
-@list l9:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.25in;
-	mso-level-number-position:left;
-	margin-left:.25in;
-	text-indent:-.25in;
-	font-family:Symbol;}
-ol
-	{margin-bottom:0in;}
-ul
-	{margin-bottom:0in;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -915,62 +809,85 @@ table.MsoTableWeb1FirstRow
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body lang=EN-US link=blue vlink="#FF0033" style='tab-interval:.5in'>
+
 
 <div class=WordSection1>
 
-<p align=center style='margin:0in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:24.0pt;font-family:"Calibri",sans-serif'>Peter K Schott<br>
-</span><span style='font-family:"Calibri",sans-serif'><br>
-Juan <span class=SpellE>Trippe</span> Professor of Economics, Yale School of
-Management<br>
-<a href="mailto:peter.schott@yale.edu">peter.schott@yale.edu</a><o:p></o:p></span></p>
-
-<p align=center style='margin:0in;margin-bottom:.0001pt;text-align:center'><span
-style='font-family:"Calibri",sans-serif'>v</span><span style='font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
-minor-latin'>2019.11.19</span><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'><br
+<p align=center style='text-align:center'><span style='font-size:24.0pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-theme-font:minor-latin'>Peter K Schott<br>
+</span><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><br>
+<a href="https://en.wikipedia.org/wiki/Juan_Trippe">Juan Trippe</a> Professor
+of Economics, <a href="http://www.mba.yale.edu/"><span style='text-decoration:
+none;text-underline:none'>Yale School of Management</span></a><br>
+Research Associate, <a href="http://www.nber.org/"><span style='text-decoration:
+none;text-underline:none'>National Bureau Of Economic Research</span></a> <br>
+<a href="mailto:peter.schott@yale.edu"><span style='text-decoration:none;
+text-underline:none'>peter.schott@yale.edu</span></a></span><span
+style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><br
 style='mso-special-character:line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]></span><span style='font-family:"Calibri",sans-serif'><o:p></o:p></span></p>
+<![endif]><o:p></o:p></span></p>
 
-<table class=MsoTableWeb1 border=1 cellspacing=3 cellpadding=0 width="100%"
+<table class=MsoTableWeb1 border=1 cellspacing=40 cellpadding=0 width="100%"
  style='width:100.0%;mso-cellspacing:2.0pt;mso-yfti-tbllook:1184;mso-padding-alt:
  0in 5.4pt 0in 5.4pt'>
  <tr style='mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
   mso-yfti-lastrow:yes'>
-  <td width="49%" valign=top style='width:49.86%;padding:0in 5.4pt 0in 5.4pt'>
+  <td width="48%" valign=top style='width:48.6%;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-yfti-cnfc:1'><span
   style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
   mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><br
   style='mso-special-character:line-break'>
   <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
   <![endif]><o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center;
-  mso-yfti-cnfc:1'><span class=MsoHyperlink><span style='mso-bidi-font-family:
-  "Times New Roman"'><o:p>&nbsp;</o:p></span></span></p>
-  <p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center;
-  mso-yfti-cnfc:1'><span class=MsoHyperlink><span style='font-size:13.0pt;
-  mso-bidi-font-family:"Times New Roman"'><a
-  href="https://sompks4.github.io/sub_cv.htm"><span style='mso-ansi-font-size:
-  13.0pt'>Curriculum Vitae</span></a> <br>
-  <a href="https://sompks4.github.io/sub_papers.htm"><span style='mso-ansi-font-size:
-  13.0pt'>Research Papers</span></a><o:p></o:p></span></span></p>
-  <p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center;
-  mso-yfti-cnfc:1'><span class=MsoHyperlink><span style='font-size:13.0pt;
-  mso-bidi-font-family:"Times New Roman"'><a
-  href="https://sompks4.github.io/files/bio.pdf"><span style='mso-ansi-font-size:
-  13.0pt'>Short Bio</span></a><br>
+  <p class=MsoNormal align=center style='text-align:center;mso-yfti-cnfc:1'><span
+  style='mso-bidi-font-size:14.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><a
+  href="https://sompks4.github.io/sub_cv.htm"><span style='text-decoration:
+  none;text-underline:none'>Curriculum Vitae</span></a> <br style='mso-special-character:
+  line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-yfti-cnfc:1'><span
+  style='mso-bidi-font-size:14.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><a
+  href="https://sompks4.github.io/sub_papers.htm"><span style='text-decoration:
+  none;text-underline:none'>Research Papers</span></a><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-yfti-cnfc:1'><span
+  style='mso-bidi-font-size:14.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-yfti-cnfc:1'><span
+  style='mso-bidi-font-size:14.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><br>
+  <a href="https://sompks4.github.io/files/bio.pdf"><span style='text-decoration:
+  none;text-underline:none'>Short Bio</span></a><br style='mso-special-character:
+  line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-yfti-cnfc:1'><span
+  style='mso-bidi-font-size:14.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><br>
   <a href="https://sompks4.github.io/sub_international.htm"><span
-  style='mso-ansi-font-size:13.0pt'><span style='mso-spacerun:yes'> </span>Data</span></a><br>
-  <a href="https://sompks4.github.io/sub_ed.htm"><span style='mso-ansi-font-size:
-  13.0pt'>Talk with Ed <span class=SpellE>Leamer</span></span></a><br>
-  <a href="https://sompks4.github.io/sub_dad.htm"><span style='mso-ansi-font-size:
-  13.0pt'>Marzipan?</span></a></span></span><span style='font-family:"Calibri",sans-serif;
-  mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
-  minor-latin'><o:p></o:p></span></p>
+  style='text-decoration:none;text-underline:none'><span
+  style='mso-spacerun:yes'> </span>Data</span></a><br>
+  <br>
+  <br>
+  <a href="https://sompks4.github.io/sub_ed.htm"><span style='mso-bidi-font-size:
+  12.0pt;text-decoration:none;text-underline:none'>Talk</span><span
+  style='text-decoration:none;text-underline:none'> with Ed <span class=SpellE>Leamer</span></span></a><br>
+  <br>
+  <a href="https://sompks4.github.io/sub_dad.htm"><span style='text-decoration:
+  none;text-underline:none'>Marzipan?</span></a></span><span style='font-family:
+  "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin'><br style='mso-special-character:
+  line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></p>
   </td>
-  <td width="49%" valign=top style='width:49.42%;padding:0in 5.4pt 0in 5.4pt'>
+  <td width="50%" valign=top style='width:50.84%;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-yfti-cnfc:1'><span
   style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
   mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><o:p>&nbsp;</o:p></span></p>
@@ -1002,7 +919,7 @@ style='mso-special-character:line-break'>
    mso-wrap-style:square'>
    <v:imagedata src="index_files/image002.jpg" o:title="burma_2011"/>
   </v:shape><![endif]--><![if !vml]><img border=0 width=382 height=271
-  src="index_files/image003.jpg" alt="burma_2011.jpg" v:shapes="Picture_x0020_1"><![endif]></span><span
+  src="index_files/image001.jpg" alt="burma_2011.jpg" v:shapes="Picture_x0020_1"><![endif]></span><span
   style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
   mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><br>
   With Evan &amp; Alex in Bagan, Myanmar<o:p></o:p></span></p>
@@ -1010,9 +927,23 @@ style='mso-special-character:line-break'>
  </tr>
 </table>
 
+<p align=center style='text-align:center'><strong><span style='font-size:13.5pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-theme-font:minor-latin;color:white;mso-color-alt:windowtext'>Contact
+Information</span></strong><span style='font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin'><br>
+<a href="mailto:peter.schott@yale.edu"><span style='text-decoration:none;
+text-underline:none'>peter.schott@yale.edu</span></a><br>
+Yale School of Management<br>
+165 Whitney Avenue<br>
+New Haven, CT 06511<br>
+Phone:&nbsp; 203.436.4260 <br>
+Fax:&nbsp; 203.432.6974&nbsp;<o:p></o:p></span></p>
+
 <p align=center style='text-align:center'><span style='font-family:"Calibri",sans-serif;
 mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
-minor-latin'><o:p>&nbsp;</o:p></span></p>
+minor-latin'>This page was last updated 2019.11.19<o:p></o:p></span></p>
 
 </div>
 
