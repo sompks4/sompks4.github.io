@@ -8,17 +8,72 @@
     <link rel="stylesheet" href="./public/github-light.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <script async="" src="./y_files/analytics.js.download"></script><script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');      
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
       ga('create', 'UA-65546321-1', 'auto');
       ga('send', 'pageview');
     </script>
     <style>
+      button.accordion2 {
+      font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      cursor: pointer;
+      padding: 0px;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 100%;
+      transition: 0.4s;
+      background-color: #f8f8f8;
+      }
+      button.accordion {
+      font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      cursor: pointer;
+      padding: 0px;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 100%;
+      transition: 0.4s;
+      background-color: #f8f8f8;
+      }
+      button.accordion.active, button.accordion:hover {
+      background-color: #f8f8f8;
+      }
+      button.accordion:after {
+      content: '[+]';
+      font-size: 90%;
+      color:#777;
+      float: left;
+      margin-left: 1px;
+      }
+
+      button.accordion2:after {
+      content: '[#]';
+      font-size: 90%;
+      color:#777;
+      float: left;
+      margin-left: 1px;
+      }
+
+      button.accordion.active:after {
+      content: "[\2212]";
+      }
+      div.panel {
+      padding: 0 20px;
+      margin-top: 5px;
+      display: none;
+      background-color: white;
+      font-size: 100%;
+      }
+      div.panel.show {
+      display: block !important;
+      }
     </style>
   </head>
   <body class=" hasGoogleVoiceExt">
@@ -32,6 +87,8 @@
 		<h3><p class="view"><a href="https://sompks4.github.io/sub_bio.html">Bio</a></p></h3>		
 		<h3><p class="view"><a href="https://sompks4.github.io/sub_ed.html">Talk with Ed</a></p></h3>	
 		<h3><p class="view"><a href="https://sompks4.github.io/sub_dad.html">Marzipan</a></p></h3>	
+	
+
       </header>
       <section>
 	<p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>I am the Juan Trippe Professor of Economics at the Yale School of Management. You can reach me via email at <font color="#0000FF"> peter.schott@yale.edu </font> or by phone at <font color="#0000FF"> 203-436-4260</font>. </p><p></p></p></p></p></p></p></p></p></p></p></p>
