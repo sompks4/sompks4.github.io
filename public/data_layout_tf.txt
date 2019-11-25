@@ -1,0 +1,28 @@
+Data Layout for supersic87_7299_06_penmod
+(v15)
+
+column 1    	-  4 digit SIC (1987 revision) 
+column 2   	-  year
+column 3   	-  import penetration = imports/(shipments-exports+imports)
+
+Data Layout for supersic87_7299_06_tf
+(v15)
+
+column 1    	-  4 digit SIC (1987 revision) 
+column 2   	-  year
+column 3   	-  import weighted average tariff (duties/customs value)
+column 4   	-  import weighted freight rate (1-cif/fob)
+
+
+Data Layout for supersic87_7299_06_lwc
+(v15)
+
+column 1    	-  4 digit SIC (1987 revision) 
+column 2   	-  year
+column 3   	-  share of imports from countries with <5% US PCGDP
+column 4   	-  share of hs10 products in industry sourced from at least one country with <5% of US PCGDP
+
+Notes
+1.  Not all sic's are present.  See notes in text of referenced papers
+
+
