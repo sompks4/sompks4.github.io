@@ -4,7 +4,7 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#800;
+  color:#777;
   font-weight:300;
 }
 
@@ -198,8 +198,7 @@ footer {
   }
 
   header {
-    //320
-	padding-right:50px;
+	padding-right:320px;
   }
 
   section {
