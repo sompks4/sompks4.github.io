@@ -47,8 +47,9 @@ a small {
 }
 
 .wrapper {
-  width:860px;
-  margin:0 auto;
+  display: block;
+background-color: yellow;
+  margin: auto;
 }
 
 blockquote {
@@ -175,7 +176,6 @@ section {
   padding-bottom:50px;
   /* */
   padding-left:-50px;
-  background-color: red;
 }
 
 small {
