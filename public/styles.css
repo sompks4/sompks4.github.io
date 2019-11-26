@@ -101,6 +101,8 @@ header {
   width:170px;
   float:left;
   position:fixed;
+  background-color: red;
+ 
 }
 
 header ul {
