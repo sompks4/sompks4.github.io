@@ -7,6 +7,23 @@ body {
   color:#777;
   font-weight:300;
 }
+.wrapper {
+  display: block;
+width: 780px;
+}
+section {
+	display: block;
+	width:500px;
+	float:right;
+
+}
+header {
+
+	display: block; 
+	width: 270px;
+	margin: 0;
+	float:left;
+}
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -46,11 +63,7 @@ a small {
   display:block;
 }
 
-.wrapper {
-  display: block;
 
-  margin: auto;
-}
 
 blockquote {
   border-left:1px solid #e5e5e5;
@@ -95,15 +108,12 @@ th {
 
 img {
   max-width:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-header {
-	/*270*/
-	display: block;
-  width:270px;
-  float:right;
- 
-}
+
 
 header ul {
   list-style:none;
@@ -130,11 +140,6 @@ header li {
   align: left;
   border-right:1px solid #d2d2d2;
   height:40px;
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 header ul a {
   line-height:1;
@@ -167,14 +172,7 @@ header ul a strong {
   color:#222;
 }
 
-section {
-	display: block;
-  width:500px;
-  float:left;
-  padding-bottom:50px;
-  /* */
-  padding-left:-50px;
-}
+
 
 small {
   font-size:11px;
@@ -235,7 +233,7 @@ footer {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	
 }
 @media print, screen and (max-width: 720px) {
   body {
