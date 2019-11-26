@@ -98,10 +98,10 @@ img {
 
 header {
 	/*270*/
-  width:170px;
+  width:270px;
   float:left;
   position:fixed;
-  background-color: red;
+  /*background-color: red;*/
  
 }
 
@@ -167,6 +167,9 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+  /* */
+  padding-left:-50px;
+  background-color: red;
 }
 
 small {
@@ -224,7 +227,12 @@ footer {
     top:52px;
   }
 }
-
+.view {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
