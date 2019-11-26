@@ -48,7 +48,7 @@ a small {
 
 .wrapper {
   display: block;
-background-color: yellow;
+
   margin: auto;
 }
 
@@ -101,9 +101,7 @@ header {
 	/*270*/
 	display: block;
   width:270px;
-  float:left;
-  
-  background-color: blue;
+  float:right;
  
 }
 
@@ -172,7 +170,7 @@ header ul a strong {
 section {
 	display: block;
   width:500px;
-  float:right;
+  float:left;
   padding-bottom:50px;
   /* */
   padding-left:-50px;
