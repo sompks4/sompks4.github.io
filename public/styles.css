@@ -126,8 +126,8 @@ header ul {
 }
 
 header li {
-  width:89px;
-  float:left;
+  display: block;
+align:left;
   border-right:1px solid #d2d2d2;
   height:40px;
 }
